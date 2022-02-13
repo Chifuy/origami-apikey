@@ -1,6 +1,6 @@
 {
-  "name": "api-yuzzu",
-  "version": "1.1.0",
+  "name": "Origami-Apikey",
+  "version": "1.0.0",
   "description": "My Rest Api Projectttttt",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "rest",
     "api"
   ],
-  "author": "Yuzzu",
+  "author": "Aron",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/YuzzuKamiyaka/yuzzu-api/issues"
